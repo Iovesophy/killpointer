@@ -26,7 +26,10 @@ ruby killpointermaker.rb
 ## 実行環境  
 実行環境は,*nix環境を想定しています。windowsではお使いになれません。  
 
-macOS High Sierra 10.13.6とUbuntu14.04LTSで動作確認しました。
+* macOS High Sierra 10.13.6
+* Ubuntu14.04LTS
+* RASPBIAN Version:June 2018 Release date:2018-06-27 Kernel version:4.14  
+で動作確認しました。
 
 生成できたプログラムは自身の環境に合わせてご自由にお使いください。  
 
