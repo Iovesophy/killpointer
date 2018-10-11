@@ -3,7 +3,7 @@
 Process kill pointer.
 ***
 ## 概要
-killpointerはプログラムに関連するキ-ワードを検索して「kill」します。
+killpointerはプログラムに関連するキーワードを検索して「kill」します。
 キ-ワ-ドは複数設定可能でpidを一つに絞って「kill」できます。
 また、複数のpidをkillする事も可能です。
 例えば、
