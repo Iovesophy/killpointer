@@ -4,7 +4,7 @@ Process kill pointer.
 ***
 ## 概要
 killpointerはプログラムに関連するキーワードを検索して「kill」します。
-キ-ワ-ドは複数設定可能でpidを一つに絞って「kill」できます。
+キーワードは複数設定可能でpidを一つに絞って「kill」できます。
 また、複数のpidをkillする事も可能です。
 例えば、
 特定のプログラムrun.pyを「kill」したい。
@@ -41,4 +41,4 @@ $ ruby killpointermaker.rb
 
 生成できたプログラムは自身の環境に合わせてご自由にお使いください。  
 
-Coprwrite odenn. (Mail: kazuyayuda1@gmail.com)
+Copywrite odenn. (Mail: kazuyayuda1@gmail.com)
